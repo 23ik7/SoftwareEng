@@ -11,7 +11,7 @@ Each project applies key principles of software design patterns, software archit
 |:--|:--|:--|
 | **Bank** | Banking system to manage customers, personal and corporate accounts. | OOP, Class Design, Encapsulation |
 | **Composite** | Item store for managing collections of Books and CDs. | Composite Pattern, XML Reader |
-| **Minesweeper** | Classic Minesweeper game implementation. | MVC Architecture, Event Handling |
+| **Minesweeper** | Minesweeper game implementation. | Logic, Terminal Application |
 | **MVC** | Book Manager desktop app for managing a collection of books. | MVC Pattern, JavaFX |
 | **Observer** | News broadcasting system to notify registered components of new updates. | Observer Pattern |
 | **Observer Test Class** | Unit tests for the Observer pattern implementation. | JUnit Testing |
